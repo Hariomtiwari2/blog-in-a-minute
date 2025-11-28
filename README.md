@@ -1,12 +1,13 @@
 🚀 Serverless AI Blog Generator with Safety Guardrails
 
-A full-stack serverless application that uses Amazon Bedrock (Nova Micro) to generate high-quality blog posts. This project implements enterprise-grade Responsible AI practices using Amazon Bedrock Guardrails to filter harmful content and protect PII (Personally Identifiable Information).
-
-<img width="2816" height="1536" alt="Gemini_Generated_Image_l1z7bhl1z7bhl1z7" src="https://github.com/user-attachments/assets/<img width="1756" height="903" alt="Screenshot 2025-11-28 132538" src="https://github.com/user-attachments/assets/6fec2646-2379-4928-9488-6261f550d671" />
-4016478b-6523-43dc-bba6-f466a8e21597" />
+A full-stack serverless application that uses Amazon Bedrock (Nova Micro) to generate high-quality blog posts. This project implements enterprise-grade Responsible AI practices using Amazon Bedrock Guardrails to filter harmful content and protect PII (Personally Identifiable Information).<img width="1756" height="903" alt="Screenshot 2025-11-28 132538" src="https://github.com/user-attachments/assets/87d0a129-0428-48d6-94ff-cf731509fb17" />
 
 
-🏗️ Architecture
+
+
+
+🏗️ Architecture<img width="1120" height="619" alt="Screenshot 2025-11-28 133100" src="https://github.com/user-attachments/assets/49779727-52cf-4d8f-88b8-b559a2d39251" />
+
 
 This project demonstrates a fully serverless "Generative AI as a Service" pattern with a dedicated safety layer:
 
